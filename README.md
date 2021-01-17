@@ -1,1 +1,1 @@
-<h1> Makine Ogrenmesi Rehberi </h1>
+<h1> Makine Öğrenmesi Rehberi </h1>
