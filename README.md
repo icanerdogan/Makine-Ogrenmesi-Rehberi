@@ -1,5 +1,5 @@
 <h1> Makine Öğrenmesi Rehberi </h1>
-<img src="https://cdn.pixabay.com/photo/2020/11/07/10/25/machine-learning-5720531_1280.png" alt="Machine Learning" width="300" height="190">
+<img src="https://deeplearninganalytics.org/wp-content/uploads/2019/06/ML.png" alt="Machine Learning" width="500" height="325" style="text-align:center">
 <h2><a href="https://www.youtube.com/playlist?list=PLKZuE7QvI1_lIMcxTxVIM23TodBg-iV3a">Youtube Konu Anlatım Oynatma Listesi</a></h2>
 
 <h3>Regresyon / Regression</h3>
