@@ -1,2 +1,1 @@
-# Makine-Ogrenmesi-Rehberi
-Makine Öğrenmesi Öğreten Rehber
+<h1> Makine Ogrenmesi Rehberi </h1>
